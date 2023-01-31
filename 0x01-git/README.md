@@ -1,0 +1,1 @@
+This direcotry contains tasks that tests for basic git knowledge
