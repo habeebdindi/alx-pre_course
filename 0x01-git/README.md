@@ -1,1 +1,0 @@
-## This directory contains solution to tasks on "git"
